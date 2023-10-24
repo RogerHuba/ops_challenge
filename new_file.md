@@ -1,7 +1,6 @@
 # This is a new File
 
 We need to ACP This
-
 - A is for ADD
     - git add new_file.md
 - C is for Commit
