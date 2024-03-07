@@ -9,13 +9,10 @@
 # Libraries: What libraries Uses
 # Externals Sources:
 
-# Ask the User how old they are. 
+# Vairables
 
-# User: How old are you. The user says.  I'm 49. You store this in a variable
-# called user_age
 
-# user_age = 49
-# print(user_age) -> 49
+# Functions
 
-echo "hi Roger"
-echo "bye"
+
+# Main
